@@ -84,7 +84,7 @@
     "d3-scale": "^3.3.0",
     "d3-selection": "^2.0.0",
     "date-fns": "^2.28.0",
-    "echarts": "^5.4.3",
+    "echarts": "^6.1.0",
     "file-saver": "^2.0.5",
     "hjson": "^3.2.2",
     "json-bigint-native": "^1.2.0",
